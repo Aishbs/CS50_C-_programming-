@@ -1,0 +1,5 @@
+1. Prompt user for height of pyramid.
+2. If height is less than 1 or greater than 8, prompt the user again.
+3. Iterate i from 1 through height:
+    1. For iterations 1 thorugh height - i, print a space.
+    2. On iteration i, print hashes and a new line.
